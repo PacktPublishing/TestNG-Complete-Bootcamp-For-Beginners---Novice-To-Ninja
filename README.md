@@ -33,3 +33,7 @@ N/A
 * [Introduction to PostgreSQL Databases with PgAdmin For Beginners [Video]](https://www.packtpub.com/application-development/introduction-postgresql-databases-pgadmin-beginners-video)
 
 * [SQL Beginner to Guru: MySQL Edition - Master SQL with MySQL [Video]](https://www.packtpub.com/application-development/sql-beginner-guru-mysql-edition-master-sql-mysql-video)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789132557">https://packt.link/free-ebook/9781789132557 </a> </p>
